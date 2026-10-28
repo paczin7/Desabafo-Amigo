@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - Desabafo Amigo</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
+        h1, h2 { color: #2c3e50; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .footer { margin-top: 40px; font-size: 0.9em; color: #666; border-top: 1px solid #eee; padding-top: 10px; }
+    </style>
+</head>
+<body>
+
+    <h1>Política de Privacidade – Desabafo Amigo</h1>
+    <p><em>Última atualização: Outubro de 2026</em></p>
+
+    <p>O <strong>Desabafo Amigo</strong> valoriza a privacidade dos seus usuários. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações quando você utiliza nosso aplicativo móvel.</p>
+
+    <h2>1. Informações que Coletamos</h2>
+    <p>Para fornecer uma experiência segura e funcional, podemos coletar os seguintes tipos de informações:</p>
+    <ul>
+        <li><strong>Informações de Conta:</strong> Endereço de e-mail e dados básicos de perfil fornecidos via Firebase Authentication ou Google Sign-In para gestão de acesso.</li>
+        <li><strong>Conteúdo Gerado pelo Usuário:</strong> Textos, desabafos, comentários e interações publicados voluntariamente na plataforma.</li>
+        <li><strong>Dados Técnicos e Diagnósticos:</strong> Registros de erros (crash logs) e métricas básicas de desempenho do aplicativo.</li>
+    </ul>
+
+    <h2>2. Como Usamos Suas Informações</h2>
+    <ul>
+        <li>Permitir a navegação, publicação e interação entre os usuários na plataforma.</li>
+        <li>Garantir a segurança da comunidade, prevenindo abusos e conteúdos inadequados.</li>
+        <li>Otimizar e corrigir falhas de desempenho do aplicativo.</li>
+    </ul>
+
+    <h2>3. Compartilhamento de Dados</h2>
+    <p>Nenhum dado pessoal é vendido ou alugado a terceiros. Utilizamos apenas serviços essenciais de infraestrutura em nuvem (como <strong>Google Firebase</strong>) estritamente necessários para a autenticação e funcionamento do app.</p>
+
+    <h2>4. Exclusão de Conta e Dados</h2>
+    <p>Você tem o direito de solicitar a exclusão da sua conta e de todos os seus dados associados a qualquer momento pelas configurações do aplicativo ou entrando em contato com nosso suporte.</p>
+
+    <h2>5. Alterações nesta Política</h2>
+    <p>Podemos atualizar esta Política de Privacidade ocasionalmente. Recomendamos a revisão periódica desta página.</p>
+
+    <div class="footer">
+        <p>Se tiver dúvidas sobre esta política, entre em contato pelo e-mail: <strong>contato.desabafoamigo@gmail.com</strong></p>
+    </div>
+
+</body>
+</html>
